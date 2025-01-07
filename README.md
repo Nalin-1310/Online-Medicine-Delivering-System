@@ -11,7 +11,7 @@ This repository demonstrates a Flask-based web application built with Python 3.8
 - **Back-End**: MySQL database
 - **Web Framework**: Flask
 - **Development IDE**: PyCharm
-- 
+
 ## Prerequisites
 Before starting, ensure the following are installed on your system:
 - Python 3.8 or higher
